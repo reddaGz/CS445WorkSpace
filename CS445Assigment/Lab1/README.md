@@ -36,8 +36,11 @@
 ### after restore the 
 ![afterrestor](afterrestore.png)
 
+### git checkout redda switch to redda branch from current 
+![checkout](checkout.png)
 ### conflict happen 
 ![conflict](confilict.png)
 
 ### after conflict solved 
  ![conflictsolved](conflictresolved.png)
+
