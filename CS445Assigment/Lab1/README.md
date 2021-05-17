@@ -30,3 +30,8 @@
 
  ### git updated comments 
  *  git commit --amend -m  "return multiplication*
+ ### git restore filename
+ ### before restore
+  ![beforeRestor](newfile.png)
+### after restore the 
+![afterrestor](afterrestore.png)
