@@ -27,3 +27,6 @@
  ![gitshow](gitshowcom.png)
  ### git show command 
  ![gitshow](gitshow.png)
+
+ ### git updated comments 
+ *  git commit --amend -m  "return multiplication*
