@@ -1,8 +1,8 @@
 ### CS445 Lab1
-##### git init
+## git init
 
 ![gitinit](gitinit.png)
 
-##### git tag -a "tagname" -m "message related to the tag"
+## git tag -a "tagname" -m "message related to the tag"
 
 ![gitinit](gittag.png)
