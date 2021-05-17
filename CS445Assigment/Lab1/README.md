@@ -13,3 +13,7 @@
 ![gitdiff](gitdiff.png)
 ### git log 
  ![gitlog](gitlog.png)
+ ### git status before add
+ ![gitstatus](gits1.png)
+ ### git status after add
+ ![gitstatus](gits2.png)
