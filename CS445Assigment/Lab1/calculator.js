@@ -10,3 +10,6 @@ function div(x){
 function mul(x,y){
     return x*y;
 }
+function ceil(x){
+    return Math.ceil(x)
+}
