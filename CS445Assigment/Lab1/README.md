@@ -17,3 +17,13 @@
  ![gitstatus](gits1.png)
  ### git status after add
  ![gitstatus](gits2.png)
+ ### commit 
+ ![commit](commit.png)
+ ### before commit 
+ ![beforcommit](beforeCommit.png)
+ ### after commit 
+ ![afterCommit](afterCommit.png)
+ ### git show command 
+ ![gitshow](gitshowcom.png)
+ ### git show command 
+ ![gitshow](gitshow.png)
