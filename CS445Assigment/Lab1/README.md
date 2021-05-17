@@ -35,3 +35,9 @@
   ![beforeRestor](newfile.png)
 ### after restore the 
 ![afterrestor](afterrestore.png)
+
+### conflict happen 
+![conflict](confilict.png)
+
+### after conflict solved 
+ ![conflictsolved](conflictresolved.png)
