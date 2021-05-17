@@ -7,3 +7,6 @@ function sub(x,y){
 function div(x){
     return x/2;
 }
+function mul(x,y){
+    return x*y;
+}
