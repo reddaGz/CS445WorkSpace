@@ -46,3 +46,7 @@
 
 ### git revert 
    * git revert SHA 
+### git clone 
+  ![gitclone](gitclone.png)
+
+
