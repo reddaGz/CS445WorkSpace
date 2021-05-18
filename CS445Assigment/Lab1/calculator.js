@@ -16,3 +16,6 @@ function ceil(x){
 function floor(x){
     return Math.floor(x)
 }
+function log(x){
+    return Math.log(x)
+}
