@@ -19,3 +19,7 @@ function floor(x){
 function sin(x){
 return Math.sin(x);
 }
+
+function display(x,y){
+    console.log(x+" "+y)
+}
