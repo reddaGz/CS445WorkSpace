@@ -44,3 +44,5 @@
 ### after conflict solved 
  ![conflictsolved](conflictresolved.png)
 
+### git revert 
+   * git revert SHA 
