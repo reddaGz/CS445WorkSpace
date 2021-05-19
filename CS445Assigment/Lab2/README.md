@@ -3,7 +3,7 @@
 The java scripts engine parses and turns in to abstract syntax tree based on that the interperator changes to bytcode 
 To make it run faster, the bytecode can be sent to the optimizing compiler along with profiling data. The optimizing compiler makes certain assumptions based on the profiling data it has, and then produces highly-optimized machine code.
 #### this is diagram how js engine works 
- ![js engine](./image/jsengine.png)
+ ![js engine](https://github.com/reddaGz/CS445WorkSpace/blob/master/CS445Assigment/Lab2/image/Jsengine.png)
  ### there are different way to optimize our source code
  1. Object shape <br>
       do not change object shape 
