@@ -25,9 +25,11 @@ To make it run faster, the bytecode can be sent to the optimizing compiler along
 obj={...obj,y:8}
 
 ```
-### Let’s assume we have an object with the properties x and y, and it uses the dictionary data structure we discussed earlier: it contains the keys as strings, and those point to their respective property attributes.
+### Let’s assume we have an object with the properties x and y, and it uses the dictionary data structure it contains the keys as strings, and those point to their respective property attributes.
  [Object image](https://github.com/reddaGz/CS445WorkSpace/blob/master/CS445Assigment/Lab2/image/obj.png)
- ### 
+ ### If we assume that we’ll be seeing more objects with this shape later, then it’s wasteful to store the full dictionary containing the property names and attributes on the JSObject itself, as the property names are repeated for all objects with the same shape. That’s a lot of duplication and unnecessarily memory usage. As an optimization, engines store the Shape of the object separately.
+ [optimazed object](https://github.com/reddaGz/CS445WorkSpace/blob/master/CS445Assigment/Lab2/image/optIObj.png)
+ 
 2. keep function argument constant :  
     the more you change the types of the attribute you use to call your function the more complex the function becomes in the eye of compiler so that avoid as much as possible monomorphic
     ```
