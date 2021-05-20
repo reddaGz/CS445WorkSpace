@@ -1,4 +1,5 @@
 /**
+ * This is java scripts files cahnge to type scripts file
  * function University(name, dept) { 
 	this.name = name; 
 	this.dept = dept; 
