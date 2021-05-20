@@ -31,7 +31,7 @@ obj={...obj,y:8}
  [optimazed object](https://github.com/reddaGz/CS445WorkSpace/blob/master/CS445Assigment/Lab2/image/optIObj.png)
  
 2. keep function argument constant :  
-    the more you change the types of the attribute you use to call your function the more complex the function becomes in the eye of compiler so that avoid as much as possible monomorphic
+    the more you change the types of the attribute you use to call your function the more complex the function becomes in the eye of compiler so that keep the function monomorphic
     ```
    function add(x,y){
     return x+y;
