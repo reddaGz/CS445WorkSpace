@@ -24,14 +24,3 @@ console.log(`end`);
 // [4, 1, 5, 7, 2, 3, 6]
 
 
-
-// Array.prototype.removeDuplication= function(){
-//     let set =new Set()
-//     let l=this.length
-//     for(let i=0;i<l;i++){
-//         set.add(this.pop())
-//     }  
-//     for(let n of set){
-//         this.push(n)
-//     }
-// }
