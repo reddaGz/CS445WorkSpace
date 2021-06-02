@@ -12,9 +12,6 @@ window.onload = function () {
 async function fetchUser1(url) {
   let result1 = await fetch(url);
   let jsonObj = await result1.json();
-  console.log(jsonObj)
-  console.log(jsonObj.results[0].phone)
-  console.log(jsonObj.results[0].email)
   let firstName = jsonObj.results[0].name.first;
   let lastName = jsonObj.results[0].name.last;
   let profImg = jsonObj.results[0].picture.large;
